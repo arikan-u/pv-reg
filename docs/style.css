@@ -74,6 +74,7 @@ img {
   margin-bottom: 10px;
   border-style: hidden;
   width: 90%;
+  height: 50px;
   border-radius: 5px;
   background-color: rgb(218, 218, 218);
   margin-bottom: 32px;
@@ -82,7 +83,7 @@ img {
 .container form select {
   background-color: #edf2f7;
   margin-bottom: 32px;
-  height: 52px;
+  height: 50px;
   width: 90%;
   border: 0;
   border-radius: 5px;
@@ -98,7 +99,7 @@ form button {
   border-radius: 10px 10px 10px 0;
   border: 0;
   margin-bottom: 32px;
-  height: 57px;
+  height: 50px;
   text-transform: uppercase;
   font-size: 14px;
   font-weight: 700;
@@ -112,7 +113,7 @@ form button:hover {
 
 body > a:last-of-type {
   color: #fff;
-  font: 12px "Source Sans Pro", sans-serif;
+  font-size: 12px;
   margin-top: 32px;
   padding: 4px 12px;
   text-decoration: none;
